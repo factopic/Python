@@ -14,6 +14,7 @@ thisset.clear()
 print(thisset)
 
 
+print(thisset)
 "The union() method returns a new set with all items from both sets:"
 
 set1 = {"a", "b" , "c"}
