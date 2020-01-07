@@ -1,6 +1,7 @@
 
 a = 5
 b = 25
+b = 35
 c = a + b
 text = "Addition of a , b: {} "
 print(text.format(c))
