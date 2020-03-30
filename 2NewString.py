@@ -25,3 +25,9 @@ Case 3:
 'Chng
 
 "
+Case 4:
+'Enter string:Checking
+'Newly formed string is:
+'Chng
+
+"
