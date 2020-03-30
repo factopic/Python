@@ -18,3 +18,10 @@ print(new)
 'Chng
 
 "
+
+Case 3:
+'Enter string:Checking
+'Newly formed string is:
+'Chng
+
+"
