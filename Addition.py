@@ -12,3 +12,6 @@ print(text1.format(a) + text2.format(b) + text3.format(c))
 textn = "a: {}, b: {}, a+b: {}"
 print( textn.format(a,b,c) )
 print( text.format(a,b) )
+
+
+print( text.format(a,b)
