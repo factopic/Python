@@ -15,5 +15,13 @@ print( text.format(a,b) )
 
 
 print( text.format(a,b)
+
+
+
+text2 = " b : {},"
+text3 = " a + b = {}"
+
+
+
 text2 = " b : {},"
 text3 = " a + b = {}"
