@@ -73,6 +73,26 @@ print('-------------------------------------')
 
 
 
+
+
+print('-------------------------------------')
+#--------------------------------------------6 continue
+# banana is not printing because if comes before print
+
+for i in fruit:
+	
+	if i == 'banana':
+		continue
+	print i
+
+print('-------------------------------------')
+#--------------------------------------------7
+
+
+
+
+
+
 """
 output
 you@hotmail.com
