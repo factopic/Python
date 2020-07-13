@@ -21,7 +21,3 @@ print( text.format(a,c,b)
 text2 = " b : {},"
 text3 = " a + b = {}"
 
-
-
-text2 = " b : {},"
-text3 = " a + b = {}"
