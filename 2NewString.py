@@ -36,3 +36,8 @@ Case 4:
 "
 What is PYTHONPATH?
 Ans: It is an environment variable which is used when a module is imported. Whenever a module is imported, PYTHONPATH is also looked up to check for the presence of the imported modules in various directories. The interpreter uses it to determine which module to load.
+
+
+
+Q17.What is __init__?
+Ans: __init__ is a method or constructor in Python. This method is automatically called to allocate memory when a new object/ instance of a class is created. All classes have the __init__ method.
