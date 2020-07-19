@@ -41,3 +41,38 @@ Ans: It is an environment variable which is used when a module is imported. When
 
 Q17.What is __init__?
 Ans: __init__ is a method or constructor in Python. This method is automatically called to allocate memory when a new object/ instance of a class is created. All classes have the __init__ method.
+
+
+Q12.What is type conversion in Python?
+Ans: Type conversion refers to the conversion of one data type iinto another.
+
+int() – converts any data type into integer type
+
+float() – converts any data type into float type
+
+ord() – converts characters into integer
+
+hex() – converts integers to hexadecimal
+
+oct() – converts integer to octal
+
+tuple() – This function is used to convert to a tuple.
+
+set() – This function returns the type after converting to set.
+
+list() – This function is used to convert any data type to a list type.
+
+dict() – This function is used to convert a tuple of order (key,value) into a dictionary.
+
+str() – Used to convert integer into a string.
+
+complex(real,imag) – This functionconverts real numbers to complex(real,imag) number.
+
+
+
+
+
+
+
+
+
