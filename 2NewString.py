@@ -89,3 +89,5 @@ The output of the following code is as below.
 
 
 
+Q23. What are python iterators?
+Ans: Iterators are objects which can be traversed though or iterated upon. 
